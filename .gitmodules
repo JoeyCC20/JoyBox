@@ -1,0 +1,6 @@
+[submodule "joyplug"]
+	path = joyplug
+	url = https://github.com/JoeyCC20/joyplug.git
+[submodule "joyplug-alpha"]
+	path = joyplug-alpha
+	url = https://github.com/JoeyCC20/joyplug-alpha.git
